@@ -6,7 +6,7 @@ These principles describe how the eye and brain perceptually organize visual ele
 
 ## Proximity
 **Definition**: elements close to each other are perceived as belonging to the same group.
-**Implication**: spacing (padding, margins, gaps) communicates structure as much as borders or color — often better.
+**Implication**: spacing (padding, margins, gaps) communicates structure as much as borders or color, often better.
 **Example**: in a form, keep a label close to its field and add more space between two different fields, without needing visual separators.
 
 ## Similarity

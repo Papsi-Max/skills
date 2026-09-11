@@ -25,7 +25,7 @@ Each law: short definition, practical design implication, concrete example. Base
 **Example**: a phone number displayed in blocks (555 123 4567) rather than as one continuous string; a long form broken into steps with a few fields each.
 
 ## Tesler's Law (Law of Conservation of Complexity)
-**Definition**: every application has an irreducible level of complexity; the only question is who absorbs it — the system or the user.
+**Definition**: every application has an irreducible level of complexity; the only question is who absorbs it, the system or the user.
 **Implication**: shift complexity toward the system (smart defaults, auto-detection, automatic calculations) rather than offloading it onto the user.
 **Example**: auto-detecting the country/phone format from geolocation rather than a field where the user must manually pick the dialing code.
 
@@ -38,7 +38,7 @@ Each law: short definition, practical design implication, concrete example. Base
 **Definition**: among several similar elements, the one that stands out visually is remembered better.
 **Implication**: use visual distinction sparingly and intentionally, on the element that truly needs to stand out (primary CTA, recommended offer).
 **Example**: visually highlighting the "most popular" plan in a pricing grid.
-**Caution**: if everything is highlighted, nothing stands out — the effect only works through rare contrast.
+**Caution**: if everything is highlighted, nothing stands out, the effect only works through rare contrast.
 
 ## Zeigarnik Effect
 **Definition**: interrupted or incomplete tasks are remembered better than completed ones.
@@ -51,7 +51,7 @@ Each law: short definition, practical design implication, concrete example. Base
 **Example**: a search field that tolerates typos and variations rather than requiring an exact match.
 
 ## Aesthetic-Usability Effect
-**Definition**: an interface perceived as aesthetically pleasing is perceived as more usable, regardless of its actual usability — which can also mask real usage problems during testing.
+**Definition**: an interface perceived as aesthetically pleasing is perceived as more usable, regardless of its actual usability, which can also mask real usage problems during testing.
 **Implication**: visual polish isn't cosmetic, it affects trust and tolerance for imperfections; but don't confuse "it looks good" with "it's been tested and it works."
 **Example**: two equally functional forms, where the one with polished design is judged more trustworthy by users.
 

@@ -7,7 +7,7 @@ Baseline grid for any usability audit. Each heuristic: definition, what to check
 ## 1. Visibility of system status
 **Definition**: the system should always keep users informed about what is going on, through appropriate feedback within a reasonable time.
 **Check**: loading states, action confirmations, indication of the current step in a multi-step process.
-**Common violation**: clicking "Submit" with no visual feedback for several seconds — the user clicks again or thinks it failed.
+**Common violation**: clicking "Submit" with no visual feedback for several seconds, the user clicks again or thinks it failed.
 
 ## 2. Match between system and the real world
 **Definition**: speak the user's language (words, concepts, logical order) rather than internal technical jargon.
