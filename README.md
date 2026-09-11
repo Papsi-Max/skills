@@ -7,6 +7,7 @@ A collection of custom [Claude Skills](https://support.claude.com/en/articles/12
 | Skill | What it does |
 |---|---|
 | [`ux-laws`](./skills/ux-laws) | Grounds interface critiques and design decisions in the Laws of UX, Nielsen's heuristics, Gestalt principles, and relevant cognitive biases. |
+| [`uxmyths`](./skills/uxmyths) | Catches when a design decision rests on one of 34 common but debunked UX beliefs, and offers the evidence-based reality instead. |
 
 ## How to use a skill
 
